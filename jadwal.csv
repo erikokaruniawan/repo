@@ -1,0 +1,761 @@
+Kelas,Hari,Jam Kuliah,Waktu,Kode MK,Mata Kuliah,Pengampu,Ruang,Kode dosen
+LT 1B,Senin,1,07.00 - 07.45,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1B,Senin,2,07.45 - 08.30,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1B,Senin,3,08.30 - 09.15,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1B,Senin,4,09.35 - 10.20,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1B,Senin,6,11.05 - 11.50,331-241-103,Dasar Instalasi Listrik,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 1B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1B,Senin,7,12.30 - 13.15,331-241-103,Dasar Instalasi Listrik,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 1B,Senin,9,14.00 - 14.45,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",GKT.710,FA
+LT 1B,Senin,10,14.45 - 15.30,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",GKT.710,FA
+LT 1B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1B,Senin,11,16.00 - 16.45,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",GKT.710,FA
+LT 1B,Selasa,1,07.00 - 07.45,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+LT 1B,Selasa,2,07.45 - 08.30,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+LT 1B,Selasa,3,08.30 - 09.15,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+LT 1B,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1B,Selasa,4,09.35 - 10.20,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+LT 1B,Rabu,1,07.00 - 07.45,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",SBI/08,AH
+LT 1B,Rabu,2,07.45 - 08.30,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",SBI/08,AH
+LT 1B,Rabu,3,08.30 - 09.15,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",SBI/08,AH
+LT 1B,Rabu,5,10.20 - 11.05,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBII/01,LE
+LT 1B,Rabu,6,11.05 - 11.50,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBII/01,LE
+LT 1B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1B,Rabu,7,12.30 - 13.15,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBII/01,LE
+LT 1B,Kamis,3,08.30 - 09.15,331-241-110,Rangkaian Listrik DC,"Nur Hidayat Arief S.T., M.T.",MulMed,NHA
+LT 1B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1B,Kamis,4,09.35 - 10.20,331-241-110,Rangkaian Listrik DC,"Nur Hidayat Arief S.T., M.T.",MulMed,NHA
+LT 1B,Kamis,5,10.20 - 11.05,331-241-110,Rangkaian Listrik DC,"Nur Hidayat Arief S.T., M.T.",MulMed,NHA
+LT 1B,Kamis,6,11.05 - 11.50,331-241-110,Rangkaian Listrik DC,"Nur Hidayat Arief S.T., M.T.",MulMed,NHA
+LT 1B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1B,Kamis,7,12.30 - 13.15,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1B,Kamis,8,13.15 - 14.00,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1B,Kamis,9,14.00 - 14.45,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1B,Kamis,10,14.45 - 15.30,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1B,Kamis,11,16.00 - 16.45,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1B,Kamis,12,16.45 - 17.30,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1B,Jumat,1,07.00 - 07.45,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1B,Jumat,2,07.45 - 08.30,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1B,Jumat,3,08.30 - 09.15,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1B,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1B,Jumat,4,09.35 - 10.20,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1B,Jumat,5,10.20 - 11.05,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1B,Jumat,6,11.05 - 11.50,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1B,Jumat,8,13.15 - 14.00,331-241-102,Bahasa Indonesia,"Rio Devilito S.Pd., M.Pd.",GKT.711,RD
+LT 1B,Jumat,9,14.00 - 14.45,331-241-102,Bahasa Indonesia,"Rio Devilito S.Pd., M.Pd.",GKT.711,RD
+LT 1C,Senin,2,07.45 - 08.30,331-241-102,Bahasa Indonesia,"Rio Devilito S.Pd., M.Pd.",GKT.710,RD
+LT 1C,Senin,3,08.30 - 09.15,331-241-102,Bahasa Indonesia,"Rio Devilito S.Pd., M.Pd.",GKT.710,RD
+LT 1C,Senin,5,10.20 - 11.05,331-241-110,Rangkaian Listrik DC,"Lilik Eko Nuryanto, B.Eng., M.Kom.",MulMed,LE
+LT 1C,Senin,6,11.05 - 11.50,331-241-110,Rangkaian Listrik DC,"Lilik Eko Nuryanto, B.Eng., M.Kom.",MulMed,LE
+LT 1C,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1C,Senin,7,12.30 - 13.15,331-241-110,Rangkaian Listrik DC,"Lilik Eko Nuryanto, B.Eng., M.Kom.",MulMed,LE
+LT 1C,Senin,8,13.15 - 14.00,331-241-110,Rangkaian Listrik DC,"Lilik Eko Nuryanto, B.Eng., M.Kom.",MulMed,LE
+LT 1C,Selasa,2,07.45 - 08.30,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1C,Selasa,3,08.30 - 09.15,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1C,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1C,Selasa,4,09.35 - 10.20,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1C,Selasa,5,10.20 - 11.05,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1C,Selasa,6,11.05 - 11.50,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1C,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1C,Selasa,7,12.30 - 13.15,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1C,Selasa,9,14.00 - 14.45,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",GKT.711,FA
+LT 1C,Selasa,10,14.45 - 15.30,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",GKT.711,FA
+LT 1C,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1C,Selasa,11,16.00 - 16.45,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",GKT.711,FA
+LT 1C,Rabu,1,07.00 - 07.45,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1C,Rabu,2,07.45 - 08.30,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1C,Rabu,3,08.30 - 09.15,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1C,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1C,Rabu,4,09.35 - 10.20,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1C,Rabu,5,10.20 - 11.05,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1C,Rabu,6,11.05 - 11.50,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1C,Rabu,9,14.00 - 14.45,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+LT 1C,Rabu,10,14.45 - 15.30,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+LT 1C,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1C,Rabu,11,16.00 - 16.45,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+LT 1C,Rabu,12,16.45 - 17.30,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+LT 1C,Kamis,1,07.00 - 07.45,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+LT 1C,Kamis,2,07.45 - 08.30,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+LT 1C,Kamis,3,08.30 - 09.15,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+LT 1C,Kamis,5,10.20 - 11.05,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1C,Kamis,6,11.05 - 11.50,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1C,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1C,Kamis,7,12.30 - 13.15,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1C,Kamis,8,13.15 - 14.00,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1C,Jumat,1,07.00 - 07.45,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",MulMed,AH
+LT 1C,Jumat,2,07.45 - 08.30,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",MulMed,AH
+LT 1C,Jumat,3,08.30 - 09.15,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",MulMed,AH
+LT 1C,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1C,Jumat,11,16.00 - 16.45,331-241-103,Dasar Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+LT 1C,Jumat,12,16.45 - 17.30,331-241-103,Dasar Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+LT 1D,Senin,3,08.30 - 09.15,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1D,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1D,Senin,4,09.35 - 10.20,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1D,Senin,5,10.20 - 11.05,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1D,Senin,6,11.05 - 11.50,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1D,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1D,Senin,7,12.30 - 13.15,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1D,Senin,8,13.15 - 14.00,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1D,Senin,9,14.00 - 14.45,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",SBI/09,AH
+LT 1D,Senin,10,14.45 - 15.30,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",SBI/09,AH
+LT 1D,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1D,Senin,11,16.00 - 16.45,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",SBI/09,AH
+LT 1D,Selasa,2,07.45 - 08.30,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",LabMikro,LE
+LT 1D,Selasa,3,08.30 - 09.15,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",LabMikro,LE
+LT 1D,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1D,Selasa,4,09.35 - 10.20,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",LabMikro,LE
+LT 1D,Selasa,5,10.20 - 11.05,331-241-103,Dasar Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabMeka,AR
+LT 1D,Selasa,6,11.05 - 11.50,331-241-103,Dasar Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabMeka,AR
+LT 1D,Selasa,9,14.00 - 14.45,331-241-102,Bahasa Indonesia,"Rio Devilito S.Pd., M.Pd.",SBI/09,RD
+LT 1D,Selasa,10,14.45 - 15.30,331-241-102,Bahasa Indonesia,"Rio Devilito S.Pd., M.Pd.",SBI/09,RD
+LT 1D,Rabu,1,07.00 - 07.45,331-241-110,Rangkaian Listrik DC,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/09,LE
+LT 1D,Rabu,2,07.45 - 08.30,331-241-110,Rangkaian Listrik DC,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/09,LE
+LT 1D,Rabu,3,08.30 - 09.15,331-241-110,Rangkaian Listrik DC,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/09,LE
+LT 1D,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1D,Rabu,4,09.35 - 10.20,331-241-110,Rangkaian Listrik DC,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/09,LE
+LT 1D,Rabu,5,10.20 - 11.05,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+LT 1D,Rabu,6,11.05 - 11.50,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+LT 1D,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1D,Rabu,7,12.30 - 13.15,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+LT 1D,Rabu,8,13.15 - 14.00,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+LT 1D,Kamis,1,07.00 - 07.45,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1D,Kamis,2,07.45 - 08.30,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1D,Kamis,3,08.30 - 09.15,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1D,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1D,Kamis,4,09.35 - 10.20,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1D,Kamis,6,11.05 - 11.50,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",LabPLC,FA
+LT 1D,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1D,Kamis,7,12.30 - 13.15,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",LabPLC,FA
+LT 1D,Kamis,8,13.15 - 14.00,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",LabPLC,FA
+LT 1D,Jumat,1,07.00 - 07.45,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1D,Jumat,2,07.45 - 08.30,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1D,Jumat,3,08.30 - 09.15,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1D,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1D,Jumat,4,09.35 - 10.20,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1D,Jumat,5,10.20 - 11.05,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 1D,Jumat,6,11.05 - 11.50,331-241-109,Rancangan Instalasi Listrik,"Drs. Juwarta, M.M.",LabTim,JU
+LT 2A,Senin,5,10.20 - 11.05,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2A,Senin,6,11.05 - 11.50,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2A,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2A,Senin,7,12.30 - 13.15,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2A,Senin,8,13.15 - 14.00,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2A,Senin,9,14.00 - 14.45,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",LabMikro,AA
+LT 2A,Senin,10,14.45 - 15.30,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",LabMikro,AA
+LT 2A,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2A,Senin,11,16.00 - 16.45,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",LabMikro,AA
+LT 2A,Senin,12,16.45 - 17.30,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",LabMikro,AA
+LT 2A,Selasa,1,07.00 - 07.45,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2A,Selasa,2,07.45 - 08.30,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2A,Selasa,3,08.30 - 09.15,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2A,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2A,Selasa,4,09.35 - 10.20,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2A,Selasa,5,10.20 - 11.05,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2A,Selasa,6,11.05 - 11.50,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2A,Rabu,1,07.00 - 07.45,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/06,HS
+LT 2A,Rabu,2,07.45 - 08.30,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/06,HS
+LT 2A,Rabu,3,08.30 - 09.15,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/06,HS
+LT 2A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2A,Rabu,4,09.35 - 10.20,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/06,HS
+LT 2A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2A,Rabu,7,12.30 - 13.15,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2A,Rabu,8,13.15 - 14.00,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2A,Rabu,9,14.00 - 14.45,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2A,Rabu,10,14.45 - 15.30,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2A,Rabu,11,16.00 - 16.45,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2A,Rabu,12,16.45 - 17.30,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2A,Kamis,1,07.00 - 07.45,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 2A,Kamis,2,07.45 - 08.30,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 2A,Kamis,3,08.30 - 09.15,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 2A,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2A,Kamis,4,09.35 - 10.20,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 2A,Kamis,5,10.20 - 11.05,331-211-302,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",GKT.710,"DA, DAV"
+LT 2A,Kamis,6,11.05 - 11.50,331-211-302,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",GKT.710,"DA, DAV"
+LT 2A,Jumat,1,07.00 - 07.45,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",LabKom,SE
+LT 2A,Jumat,2,07.45 - 08.30,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",LabKom,SE
+LT 2A,Jumat,3,08.30 - 09.15,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",LabKom,SE
+LT 2A,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2A,Jumat,4,09.35 - 10.20,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",LabKom,SE
+LT 2A,Jumat,5,10.20 - 11.05,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",MulMed,BB
+LT 2A,Jumat,6,11.05 - 11.50,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",MulMed,BB
+LT 2A,Jumat,8,13.15 - 14.00,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",MulMed,BB
+LT 2A,Jumat,9,14.00 - 14.45,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",MulMed,BB
+LT 2B,Senin,1,07.00 - 07.45,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2B,Senin,2,07.45 - 08.30,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2B,Senin,3,08.30 - 09.15,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2B,Senin,4,09.35 - 10.20,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2B,Senin,5,10.20 - 11.05,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2B,Senin,6,11.05 - 11.50,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2B,Senin,7,12.30 - 13.15,331-211-302,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",LabMikro,"DA, DAV"
+LT 2B,Senin,8,13.15 - 14.00,331-211-302,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",LabMikro,"DA, DAV"
+LT 2B,Selasa,1,07.00 - 07.45,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2B,Selasa,2,07.45 - 08.30,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2B,Selasa,3,08.30 - 09.15,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2B,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2B,Selasa,4,09.35 - 10.20,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2B,Selasa,5,10.20 - 11.05,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2B,Selasa,6,11.05 - 11.50,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2B,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2B,Selasa,7,12.30 - 13.15,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2B,Selasa,8,13.15 - 14.00,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2B,Selasa,9,14.00 - 14.45,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2B,Selasa,10,14.45 - 15.30,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2B,Rabu,1,07.00 - 07.45,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",LabMeka,P
+LT 2B,Rabu,2,07.45 - 08.30,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",LabMeka,P
+LT 2B,Rabu,3,08.30 - 09.15,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",LabMeka,P
+LT 2B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2B,Rabu,4,09.35 - 10.20,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",LabMeka,P
+LT 2B,Rabu,5,10.20 - 11.05,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/06,AA
+LT 2B,Rabu,6,11.05 - 11.50,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/06,AA
+LT 2B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2B,Rabu,7,12.30 - 13.15,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/06,AA
+LT 2B,Rabu,8,13.15 - 14.00,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/06,AA
+LT 2B,Kamis,1,07.00 - 07.45,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/08,HS
+LT 2B,Kamis,2,07.45 - 08.30,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/08,HS
+LT 2B,Kamis,3,08.30 - 09.15,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/08,HS
+LT 2B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2B,Kamis,4,09.35 - 10.20,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/08,HS
+LT 2B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2B,Kamis,7,12.30 - 13.15,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",SBI/09,SE
+LT 2B,Kamis,8,13.15 - 14.00,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",SBI/09,SE
+LT 2B,Kamis,9,14.00 - 14.45,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",SBI/09,SE
+LT 2B,Kamis,10,14.45 - 15.30,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",SBI/09,SE
+LT 2B,Jumat,1,07.00 - 07.45,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",LabPLC,BB
+LT 2B,Jumat,2,07.45 - 08.30,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",LabPLC,BB
+LT 2B,Jumat,3,08.30 - 09.15,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",LabPLC,BB
+LT 2B,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2B,Jumat,4,09.35 - 10.20,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",LabPLC,BB
+LT 2C,Senin,1,07.00 - 07.45,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2C,Senin,2,07.45 - 08.30,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2C,Senin,3,08.30 - 09.15,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2C,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2C,Senin,4,09.35 - 10.20,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2C,Senin,5,10.20 - 11.05,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2C,Senin,6,11.05 - 11.50,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabMikro,AW
+LT 2C,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2C,Senin,7,12.30 - 13.15,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2C,Senin,8,13.15 - 14.00,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2C,Senin,9,14.00 - 14.45,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2C,Senin,10,14.45 - 15.30,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2C,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2C,Senin,11,16.00 - 16.45,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2C,Senin,12,16.45 - 17.30,331-211-309,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+LT 2C,Selasa,5,10.20 - 11.05,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 2C,Selasa,6,11.05 - 11.50,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 2C,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2C,Selasa,7,12.30 - 13.15,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 2C,Selasa,8,13.15 - 14.00,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 2C,Selasa,9,14.00 - 14.45,331-211-302,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",GKT.710,"DA, DAV"
+LT 2C,Selasa,10,14.45 - 15.30,331-211-302,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",GKT.710,"DA, DAV"
+LT 2C,Rabu,5,10.20 - 11.05,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",LabPLC,SE
+LT 2C,Rabu,6,11.05 - 11.50,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",LabPLC,SE
+LT 2C,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2C,Rabu,7,12.30 - 13.15,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",LabPLC,SE
+LT 2C,Rabu,8,13.15 - 14.00,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",LabPLC,SE
+LT 2C,Rabu,9,14.00 - 14.45,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2C,Rabu,10,14.45 - 15.30,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2C,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2C,Rabu,11,16.00 - 16.45,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2C,Rabu,12,16.45 - 17.30,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2C,Kamis,1,07.00 - 07.45,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",LabMikro,AA
+LT 2C,Kamis,2,07.45 - 08.30,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",LabMikro,AA
+LT 2C,Kamis,3,08.30 - 09.15,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",LabMikro,AA
+LT 2C,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2C,Kamis,4,09.35 - 10.20,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",LabMikro,AA
+LT 2C,Kamis,8,13.15 - 14.00,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",LabMeka,BB
+LT 2C,Kamis,9,14.00 - 14.45,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",LabMeka,BB
+LT 2C,Kamis,10,14.45 - 15.30,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",LabMeka,BB
+LT 2C,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2C,Kamis,11,16.00 - 16.45,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",LabMeka,BB
+LT 2C,Jumat,1,07.00 - 07.45,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBII/01,HS
+LT 2C,Jumat,2,07.45 - 08.30,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBII/01,HS
+LT 2C,Jumat,3,08.30 - 09.15,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBII/01,HS
+LT 2C,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2C,Jumat,4,09.35 - 10.20,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBII/01,HS
+IL 1A,Senin,1,07.00 - 07.45,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1A,Senin,2,07.45 - 08.30,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1A,Senin,3,08.30 - 09.15,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1A,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1A,Senin,4,09.35 - 10.20,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1A,Senin,5,10.20 - 11.05,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1A,Senin,6,11.05 - 11.50,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1A,Senin,8,13.15 - 14.00,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",SBI/06,AR
+IL 1A,Senin,9,14.00 - 14.45,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",SBI/06,AR
+IL 1A,Senin,10,14.45 - 15.30,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",SBI/06,AR
+IL 1A,Selasa,1,07.00 - 07.45,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1A,Selasa,2,07.45 - 08.30,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1A,Selasa,3,08.30 - 09.15,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1A,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1A,Selasa,4,09.35 - 10.20,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1A,Selasa,5,10.20 - 11.05,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1A,Selasa,6,11.05 - 11.50,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1A,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1A,Selasa,7,12.30 - 13.15,433-241-105,Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",MulMed,AR
+IL 1A,Selasa,8,13.15 - 14.00,433-241-105,Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",MulMed,AR
+IL 1A,Selasa,9,14.00 - 14.45,433-241-105,Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",MulMed,AR
+IL 1A,Rabu,1,07.00 - 07.45,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.711,KM
+IL 1A,Rabu,2,07.45 - 08.30,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.711,KM
+IL 1A,Rabu,5,10.20 - 11.05,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardito, B.Tech., M.Kom.",SBI/09,AH
+IL 1A,Rabu,6,11.05 - 11.50,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardito, B.Tech., M.Kom.",SBI/09,AH
+IL 1A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1A,Rabu,7,12.30 - 13.15,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardito, B.Tech., M.Kom.",SBI/09,AH
+IL 1A,Rabu,9,14.00 - 14.45,433-241-101,Bahasa Inggris,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",LabPLC,"DA, DAV"
+IL 1A,Rabu,10,14.45 - 15.30,433-241-101,Bahasa Inggris,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",LabPLC,"DA, DAV"
+IL 1A,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1A,Kamis,4,09.35 - 10.20,433-241-102,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+IL 1A,Kamis,5,10.20 - 11.05,433-241-102,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+IL 1A,Kamis,6,11.05 - 11.50,433-241-102,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+IL 1A,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1A,Kamis,7,12.30 - 13.15,433-241-110,Rangkaian Listrik I,"Aggie Brenda Vernandes,ST.,MT",MulMed,ABV
+IL 1A,Kamis,8,13.15 - 14.00,433-241-110,Rangkaian Listrik I,"Aggie Brenda Vernandes,ST.,MT",MulMed,ABV
+IL 1A,Kamis,9,14.00 - 14.45,433-241-110,Rangkaian Listrik I,"Aggie Brenda Vernandes,ST.,MT",MulMed,ABV
+IL 1A,Kamis,10,14.45 - 15.30,433-241-110,Rangkaian Listrik I,"Aggie Brenda Vernandes,ST.,MT",MulMed,ABV
+IL 1A,Jumat,3,08.30 - 09.15,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 1A,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1A,Jumat,4,09.35 - 10.20,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 1A,Jumat,5,10.20 - 11.05,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 1A,Jumat,6,11.05 - 11.50,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 1B,Senin,1,07.00 - 07.45,433-241-110,Rangkaian Listrik I,"Syahid, S.T., M.Eng.",SBI/06,SY
+IL 1B,Senin,2,07.45 - 08.30,433-241-110,Rangkaian Listrik I,"Syahid, S.T., M.Eng.",SBI/06,SY
+IL 1B,Senin,3,08.30 - 09.15,433-241-110,Rangkaian Listrik I,"Syahid, S.T., M.Eng.",SBI/06,SY
+IL 1B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1B,Senin,4,09.35 - 10.20,433-241-110,Rangkaian Listrik I,"Syahid, S.T., M.Eng.",SBI/06,SY
+IL 1B,Senin,5,10.20 - 11.05,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+IL 1B,Senin,6,11.05 - 11.50,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+IL 1B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1B,Senin,7,12.30 - 13.15,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+IL 1B,Senin,8,13.15 - 14.00,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+IL 1B,Selasa,1,07.00 - 07.45,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1B,Selasa,2,07.45 - 08.30,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1B,Selasa,3,08.30 - 09.15,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1B,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1B,Selasa,4,09.35 - 10.20,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1B,Selasa,5,10.20 - 11.05,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1B,Selasa,6,11.05 - 11.50,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1B,Selasa,10,14.45 - 15.30,433-241-105,Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",MulMed,AR
+IL 1B,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1B,Selasa,11,16.00 - 16.45,433-241-105,Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",MulMed,AR
+IL 1B,Selasa,12,16.45 - 17.30,433-241-105,Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",MulMed,AR
+IL 1B,Rabu,3,08.30 - 09.15,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.711,KM
+IL 1B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1B,Rabu,4,09.35 - 10.20,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.711,KM
+IL 1B,Rabu,9,14.00 - 14.45,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+IL 1B,Rabu,10,14.45 - 15.30,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+IL 1B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1B,Rabu,11,16.00 - 16.45,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+IL 1B,Rabu,12,16.45 - 17.30,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+IL 1B,Rabu,13,17.30 - 18.15,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+IL 1B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1B,Rabu,14,18.45 - 19.30,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+IL 1B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1B,Kamis,4,09.35 - 10.20,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardito, B.Tech., M.Kom.",SBII/01,AH
+IL 1B,Kamis,5,10.20 - 11.05,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardito, B.Tech., M.Kom.",SBII/01,AH
+IL 1B,Kamis,6,11.05 - 11.50,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardito, B.Tech., M.Kom.",SBII/01,AH
+IL 1B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1B,Kamis,7,12.30 - 13.15,433-241-102,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+IL 1B,Kamis,8,13.15 - 14.00,433-241-102,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+IL 1B,Kamis,9,14.00 - 14.45,433-241-102,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+IL 1B,Jumat,1,07.00 - 07.45,433-241-101,Bahasa Inggris,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",SBI/06,"DA, DAV"
+IL 1B,Jumat,2,07.45 - 08.30,433-241-101,Bahasa Inggris,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",SBI/06,"DA, DAV"
+IL 1B,Jumat,8,13.15 - 14.00,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 1B,Jumat,9,14.00 - 14.45,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 1B,Jumat,10,14.45 - 15.30,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 1C,Senin,3,08.30 - 09.15,433-241-101,Bahasa Inggris,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",SBII/01,"DA, DAV"
+IL 1C,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1C,Senin,4,09.35 - 10.20,433-241-101,Bahasa Inggris,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",SBII/01,"DA, DAV"
+IL 1C,Senin,5,10.20 - 11.05,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1C,Senin,6,11.05 - 11.50,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1C,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1C,Senin,7,12.30 - 13.15,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1C,Senin,8,13.15 - 14.00,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1C,Senin,9,14.00 - 14.45,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1C,Senin,10,14.45 - 15.30,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",SBII/01,AJ
+IL 1C,Selasa,1,07.00 - 07.45,433-241-105,Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",SBI/08,AR
+IL 1C,Selasa,2,07.45 - 08.30,433-241-105,Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",SBI/08,AR
+IL 1C,Selasa,3,08.30 - 09.15,433-241-105,Instalasi Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",SBI/08,AR
+IL 1C,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1C,Selasa,7,12.30 - 13.15,433-241-102,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBII/01,LE
+IL 1C,Selasa,8,13.15 - 14.00,433-241-102,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBII/01,LE
+IL 1C,Selasa,9,14.00 - 14.45,433-241-102,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBII/01,LE
+IL 1C,Rabu,2,07.45 - 08.30,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabPLC,AR
+IL 1C,Rabu,3,08.30 - 09.15,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabPLC,AR
+IL 1C,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1C,Rabu,4,09.35 - 10.20,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabPLC,AR
+IL 1C,Rabu,5,10.20 - 11.05,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.711,KM
+IL 1C,Rabu,6,11.05 - 11.50,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.711,KM
+IL 1C,Kamis,1,07.00 - 07.45,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1C,Kamis,2,07.45 - 08.30,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1C,Kamis,3,08.30 - 09.15,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1C,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1C,Kamis,4,09.35 - 10.20,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1C,Kamis,5,10.20 - 11.05,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1C,Kamis,6,11.05 - 11.50,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabTim,YB
+IL 1C,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1C,Kamis,7,12.30 - 13.15,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardito, B.Tech., M.Kom.",LabMikro,AH
+IL 1C,Kamis,8,13.15 - 14.00,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardito, B.Tech., M.Kom.",LabMikro,AH
+IL 1C,Kamis,9,14.00 - 14.45,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardito, B.Tech., M.Kom.",LabMikro,AH
+IL 1C,Jumat,1,07.00 - 07.45,433-241-110,Rangkaian Listrik I,"Syahid, S.T., M.Eng.",LabMikro,SY
+IL 1C,Jumat,2,07.45 - 08.30,433-241-110,Rangkaian Listrik I,"Syahid, S.T., M.Eng.",LabMikro,SY
+IL 1C,Jumat,3,08.30 - 09.15,433-241-110,Rangkaian Listrik I,"Syahid, S.T., M.Eng.",LabMikro,SY
+IL 1C,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1C,Jumat,4,09.35 - 10.20,433-241-110,Rangkaian Listrik I,"Syahid, S.T., M.Eng.",LabMikro,SY
+IL 1C,Jumat,8,13.15 - 14.00,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 1C,Jumat,9,14.00 - 14.45,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 1C,Jumat,10,14.45 - 15.30,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 1C,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 1C,Jumat,11,16.00 - 16.45,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 2A,Senin,1,07.00 - 07.45,433-231-309,Statistik dan Stokastik,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+IL 2A,Senin,2,07.45 - 08.30,433-231-309,Statistik dan Stokastik,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+IL 2A,Senin,3,08.30 - 09.15,433-231-309,Statistik dan Stokastik,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+IL 2A,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Senin,7,12.30 - 13.15,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2A,Senin,8,13.15 - 14.00,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2A,Senin,9,14.00 - 14.45,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2A,Senin,10,14.45 - 15.30,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2A,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Senin,11,16.00 - 16.45,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2A,Senin,12,16.45 - 17.30,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2A,Senin,13,17.30 - 18.15,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2A,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Senin,14,18.45 - 19.30,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2A,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Selasa,7,12.30 - 13.15,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2A,Selasa,8,13.15 - 14.00,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2A,Selasa,9,14.00 - 14.45,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2A,Selasa,10,14.45 - 15.30,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2A,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Selasa,11,16.00 - 16.45,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2A,Selasa,12,16.45 - 17.30,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2A,Selasa,13,17.30 - 18.15,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2A,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Selasa,14,18.45 - 19.30,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2A,Rabu,6,11.05 - 11.50,433-231-310,Elektronika Daya I,"Byan Bagas Pradana S.T., M.T.",MulMed,BB
+IL 2A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Rabu,7,12.30 - 13.15,433-231-310,Elektronika Daya I,"Byan Bagas Pradana S.T., M.T.",MulMed,BB
+IL 2A,Rabu,8,13.15 - 14.00,433-231-310,Elektronika Daya I,"Byan Bagas Pradana S.T., M.T.",MulMed,BB
+IL 2A,Rabu,9,14.00 - 14.45,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",MulMed,MM
+IL 2A,Rabu,10,14.45 - 15.30,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",MulMed,MM
+IL 2A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Rabu,11,16.00 - 16.45,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",MulMed,MM
+IL 2A,Rabu,12,16.45 - 17.30,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",MulMed,MM
+IL 2A,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Kamis,4,09.35 - 10.20,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2A,Kamis,5,10.20 - 11.05,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2A,Kamis,6,11.05 - 11.50,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2A,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Kamis,7,12.30 - 13.15,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2A,Kamis,8,13.15 - 14.00,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",SBII/01,DS
+IL 2A,Kamis,9,14.00 - 14.45,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",SBII/01,DS
+IL 2A,Kamis,10,14.45 - 15.30,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",SBII/01,DS
+IL 2A,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Kamis,11,16.00 - 16.45,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",SBII/01,DS
+IL 2A,Jumat,1,07.00 - 07.45,433-231-304,Pancasila,"Febrina Indrasari, S.H.,M.H.",SBI/08,FI
+IL 2A,Jumat,2,07.45 - 08.30,433-231-304,Pancasila,"Febrina Indrasari, S.H.,M.H.",SBI/08,FI
+IL 2A,Jumat,3,08.30 - 09.15,433-231-301,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",UPA-EN,"DA, DAV"
+IL 2A,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2A,Jumat,4,09.35 - 10.20,433-231-301,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",UPA-EN,"DA, DAV"
+IL 2B,Senin,5,10.20 - 11.05,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2B,Senin,6,11.05 - 11.50,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 2B,Senin,7,12.30 - 13.15,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2B,Senin,8,13.15 - 14.00,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2B,Senin,9,14.00 - 14.45,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",MulMed,DS
+IL 2B,Senin,10,14.45 - 15.30,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",MulMed,DS
+IL 2B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2B,Senin,11,16.00 - 16.45,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",MulMed,DS
+IL 2B,Senin,12,16.45 - 17.30,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",MulMed,DS
+IL 2B,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 2B,Selasa,7,12.30 - 13.15,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2B,Selasa,8,13.15 - 14.00,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2B,Selasa,9,14.00 - 14.45,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2B,Selasa,10,14.45 - 15.30,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2B,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 2B,Selasa,11,16.00 - 16.45,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2B,Selasa,12,16.45 - 17.30,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2B,Selasa,13,17.30 - 18.15,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2B,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,,-
+IL 2B,Selasa,14,18.45 - 19.30,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2B,Rabu,1,07.00 - 07.45,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2B,Rabu,2,07.45 - 08.30,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2B,Rabu,3,08.30 - 09.15,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2B,Rabu,4,09.35 - 10.20,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2B,Rabu,5,10.20 - 11.05,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2B,Rabu,6,11.05 - 11.50,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2B,Rabu,7,12.30 - 13.15,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2B,Rabu,8,13.15 - 14.00,433-231-308,Rancangan Listrik Kendali Industri,"Eriko Arvin Karuniawan S.ST., M.Eng.",LabBar,EA
+IL 2B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2B,Kamis,4,09.35 - 10.20,433-231-310,Elektronika Daya I,"Byan Bagas Pradana S.T., M.T.",GKT.710,BB
+IL 2B,Kamis,5,10.20 - 11.05,433-231-310,Elektronika Daya I,"Byan Bagas Pradana S.T., M.T.",GKT.710,BB
+IL 2B,Kamis,6,11.05 - 11.50,433-231-310,Elektronika Daya I,"Byan Bagas Pradana S.T., M.T.",GKT.710,BB
+IL 2B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2B,Kamis,7,12.30 - 13.15,433-231-309,Statistik dan Stokastik,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+IL 2B,Kamis,8,13.15 - 14.00,433-231-309,Statistik dan Stokastik,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+IL 2B,Kamis,9,14.00 - 14.45,433-231-309,Statistik dan Stokastik,"Dra. Endang Triyani, M.Pd.",SBI/08,ET
+IL 2B,Jumat,1,07.00 - 07.45,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng./DR. PHIL. Yusuf Dewantoro Herlambang, S.T., M.T.",LabMeka,"MM, DH"
+IL 2B,Jumat,2,07.45 - 08.30,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng./DR. PHIL. Yusuf Dewantoro Herlambang, S.T., M.T.",LabMeka,"MM, DH"
+IL 2B,Jumat,3,08.30 - 09.15,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng./DR. PHIL. Yusuf Dewantoro Herlambang, S.T., M.T.",LabMeka,"MM, DH"
+IL 2B,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,,
+IL 2B,Jumat,4,09.35 - 10.20,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng./DR. PHIL. Yusuf Dewantoro Herlambang, S.T., M.T.",LabMeka,"MM, DH"
+IL 2B,Jumat,5,10.20 - 11.05,433-231-304,Pancasila,"Febrina Indrasari, S.H.,M.H.",SBI/08,FI
+IL 2B,Jumat,6,11.05 - 11.50,433-231-304,Pancasila,"Febrina Indrasari, S.H.,M.H.",SBI/08,FI
+IL 2B,Jumat,8,13.15 - 14.00,433-231-301,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",UPA-EN,"DA, DAV"
+IL 2B,Jumat,9,14.00 - 14.45,433-231-301,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",UPA-EN,"DA, DAV"
+IL 3A,Senin,1,07.00 - 07.45,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3A,Senin,2,07.45 - 08.30,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3A,Senin,3,08.30 - 09.15,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3A,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3A,Senin,4,09.35 - 10.20,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3A,Senin,5,10.20 - 11.05,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3A,Senin,6,11.05 - 11.50,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3A,Senin,9,14.00 - 14.45,433-201-502,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",SBI/08,"DA, DAV"
+IL 3A,Senin,10,14.45 - 15.30,433-201-502,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",SBI/08,"DA, DAV"
+IL 3A,Selasa,1,07.00 - 07.45,433-201-501,Analisis Sistem Tenaga,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+IL 3A,Selasa,2,07.45 - 08.30,433-201-501,Analisis Sistem Tenaga,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+IL 3A,Selasa,3,08.30 - 09.15,433-201-501,Analisis Sistem Tenaga,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+IL 3A,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3A,Selasa,4,09.35 - 10.20,433-201-501,Analisis Sistem Tenaga,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+IL 3A,Selasa,9,14.00 - 14.45,433-201-503,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/08,AA
+IL 3A,Selasa,10,14.45 - 15.30,433-201-503,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/08,AA
+IL 3A,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3A,Selasa,11,16.00 - 16.45,433-201-503,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/08,AA
+IL 3A,Selasa,12,16.45 - 17.30,433-201-503,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/08,AA
+IL 3A,Rabu,1,07.00 - 07.45,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3A,Rabu,2,07.45 - 08.30,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3A,Rabu,3,08.30 - 09.15,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3A,Rabu,4,09.35 - 10.20,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3A,Rabu,5,10.20 - 11.05,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3A,Rabu,6,11.05 - 11.50,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3A,Rabu,8,13.15 - 14.00,433-201-504,Elektronika Daya II,"Yusnan Badruzzaman, S.T., M.Eng.",SBII/01,YB
+IL 3A,Rabu,9,14.00 - 14.45,433-201-504,Elektronika Daya II,"Yusnan Badruzzaman, S.T., M.Eng.",SBII/01,YB
+IL 3A,Rabu,10,14.45 - 15.30,433-201-504,Elektronika Daya II,"Yusnan Badruzzaman, S.T., M.Eng.",SBII/01,YB
+IL 3A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3A,Rabu,11,16.00 - 16.45,433-201-504,Elektronika Daya II,"Yusnan Badruzzaman, S.T., M.Eng.",SBII/01,YB
+IL 3A,Kamis,5,10.20 - 11.05,433-201-506,Managemen Industri dan Projek,"Ir. Setyoko, M.M.",SBI/08,SE
+IL 3A,Kamis,6,11.05 - 11.50,433-201-506,Managemen Industri dan Projek,"Ir. Setyoko, M.M.",SBI/08,SE
+IL 3A,Kamis,9,14.00 - 14.45,433-201-508,Penggunaan Mesin Listrik,"Dr. Dwiana Hendrawati , S.T., M.T./Nur Hidayat Arief S.T., M.T.",GKT.711,"NHA,DWN"
+IL 3A,Kamis,10,14.45 - 15.30,433-201-508,Penggunaan Mesin Listrik,"Dr. Dwiana Hendrawati , S.T., M.T./Nur Hidayat Arief S.T., M.T.",GKT.711,"NHA,DWN"
+IL 3A,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3A,Kamis,11,16.00 - 16.45,433-201-508,Penggunaan Mesin Listrik,"Dr. Dwiana Hendrawati , S.T., M.T./Nur Hidayat Arief S.T., M.T.",GKT.711,"NHA,DWN"
+IL 3A,Kamis,12,16.45 - 17.30,433-201-508,Penggunaan Mesin Listrik,"Dr. Dwiana Hendrawati , S.T., M.T./Nur Hidayat Arief S.T., M.T.",GKT.711,"NHA,DWN"
+IL 3A,Jumat,1,07.00 - 07.45,433-201-507,Manajemen Energi Elektrik,"Pangestuningtyas Diah Larasati, S.T., M.T./Tejo Wihardiyono",GKT.710,"P, t"
+IL 3A,Jumat,2,07.45 - 08.30,433-201-507,Manajemen Energi Elektrik,"Pangestuningtyas Diah Larasati, S.T., M.T./Tejo Wihardiyono",GKT.710,"P, t"
+IL 3A,Jumat,3,08.30 - 09.15,433-201-507,Manajemen Energi Elektrik,"Pangestuningtyas Diah Larasati, S.T., M.T./Tejo Wihardiyono",GKT.710,"P, t"
+IL 3A,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3A,Jumat,4,09.35 - 10.20,433-201-507,Manajemen Energi Elektrik,"Pangestuningtyas Diah Larasati, S.T., M.T./Tejo Wihardiyono",GKT.710,"P, t"
+IL 3A,Jumat,5,10.20 - 11.05,433-201-505,Kewirausahaan,"Ir. Setyoko, M.M.",SBI/06,SE
+IL 3A,Jumat,6,11.05 - 11.50,433-201-505,Kewirausahaan,"Ir. Setyoko, M.M.",SBI/06,SE
+IL 2C,Senin,1,07.00 - 07.45,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2C,Senin,2,07.45 - 08.30,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2C,Senin,3,08.30 - 09.15,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2C,Senin,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Senin,4,09.35 - 10.20,433-231-305,Pembangkit Tenaga Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2C,Senin,9,14.00 - 14.45,433-231-310,Elektronika Daya I,"Byan Bagas Pradana S.T., M.T.",SBI/08,BB
+IL 2C,Senin,10,14.45 - 15.30,433-231-310,Elektronika Daya I,"Byan Bagas Pradana S.T., M.T.",SBI/08,BB
+IL 2C,Senin,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Senin,11,16.00 - 16.45,433-231-310,Elektronika Daya I,"Byan Bagas Pradana S.T., M.T.",SBI/08,BB
+IL 2C,Selasa,1,07.00 - 07.45,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",LabMeka,DS
+IL 2C,Selasa,2,07.45 - 08.30,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",LabMeka,DS
+IL 2C,Selasa,3,08.30 - 09.15,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",LabMeka,DS
+IL 2C,Selasa,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Selasa,4,09.35 - 10.20,433-231-302,Instalasi Listrik Industri,"Drs. Daeng Supriyadi Pasisarha, S.T., M.Eng.",LabMeka,DS
+IL 2C,Selasa,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Selasa,7,12.30 - 13.15,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2C,Selasa,8,13.15 - 14.00,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2C,Selasa,9,14.00 - 14.45,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2C,Selasa,10,14.45 - 15.30,433-231-303,Mesin Mesin Listrik,"Ir. Mochammad Muqorrobin, M.Eng.",LabMeka,MM
+IL 2C,Rabu,9,14.00 - 14.45,433-231-308,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 2C,Rabu,10,14.45 - 15.30,433-231-308,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 2C,Rabu,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Rabu,11,16.00 - 16.45,433-231-308,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 2C,Rabu,12,16.45 - 17.30,433-231-308,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 2C,Rabu,13,17.30 - 18.15,433-231-308,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 2C,Rabu,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Rabu,14,18.45 - 19.30,433-231-308,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 2C,Rabu,15,19.30 - 20.15,433-231-308,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 2C,Rabu,16,20.15 - 21.00,433-231-308,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+IL 2C,Kamis,3,08.30 - 09.15,433-231-309,Statistik dan Stokastik,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 2C,Kamis,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Kamis,4,09.35 - 10.20,433-231-309,Statistik dan Stokastik,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 2C,Kamis,5,10.20 - 11.05,433-231-309,Statistik dan Stokastik,"Dra. Endang Triyani, M.Pd.",SBI/09,ET
+IL 2C,Kamis,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Kamis,7,12.30 - 13.15,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2C,Kamis,8,13.15 - 14.00,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2C,Kamis,9,14.00 - 14.45,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2C,Kamis,10,14.45 - 15.30,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2C,Kamis,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Kamis,11,16.00 - 16.45,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2C,Kamis,12,16.45 - 17.30,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2C,Kamis,13,17.30 - 18.15,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2C,Kamis,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Kamis,14,18.45 - 19.30,433-231-307,Praktikum Elektronika,"Syahid, S.T., M.Eng.",LabTim,SY
+IL 2C,Jumat,3,08.30 - 09.15,433-231-304,Pancasila,"Febrina Indrasari, S.H.,M.H.",SBI/08,FI
+IL 2C,Jumat,ISTIRAHAT,ISTIRAHAT,,-,-,,
+IL 2C,Jumat,4,09.35 - 10.20,433-231-304,Pancasila,"Febrina Indrasari, S.H.,M.H.",SBI/08,FI
+IL 2C,Jumat,5,10.20 - 11.05,433-231-301,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",UPA-EN,"DA, DAV"
+IL 2C,Jumat,6,11.05 - 11.50,433-231-301,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",UPA-EN,"DA, DAV"
+IL 3B,Senin,1,07.00 - 07.45,433-201-503,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",MulMed,AA
+IL 3B,Senin,2,07.45 - 08.30,433-201-503,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",MulMed,AA
+IL 3B,Senin,3,08.30 - 09.15,433-201-503,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",MulMed,AA
+IL 3B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Senin,4,09.35 - 10.20,433-201-503,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",MulMed,AA
+IL 3B,Senin,6,11.05 - 11.50,433-201-505,Kewirausahaan,"Ir. Setyoko, M.M.",SBI/06,SE
+IL 3B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Senin,7,12.30 - 13.15,433-201-505,Kewirausahaan,"Ir. Setyoko, M.M.",SBI/06,SE
+IL 3B,Senin,8,13.15 - 14.00,433-201-507,Manajemen Energi Elektrik,"Pangestuningtyas Diah Larasati, S.T., M.T./Tejo Wihardiyono",GKT.711,"P, t"
+IL 3B,Senin,9,14.00 - 14.45,433-201-507,Manajemen Energi Elektrik,"Pangestuningtyas Diah Larasati, S.T., M.T./Tejo Wihardiyono",GKT.711,"P, t"
+IL 3B,Senin,10,14.45 - 15.30,433-201-507,Manajemen Energi Elektrik,"Pangestuningtyas Diah Larasati, S.T., M.T./Tejo Wihardiyono",GKT.711,"P, t"
+IL 3B,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Senin,11,16.00 - 16.45,433-201-507,Manajemen Energi Elektrik,"Pangestuningtyas Diah Larasati, S.T., M.T./Tejo Wihardiyono",GKT.711,"P, t"
+IL 3B,Selasa,1,07.00 - 07.45,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3B,Selasa,2,07.45 - 08.30,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3B,Selasa,3,08.30 - 09.15,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3B,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Selasa,4,09.35 - 10.20,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3B,Selasa,5,10.20 - 11.05,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3B,Selasa,6,11.05 - 11.50,433-201-509,PLC II,"Aggie Brenda Vernandes,ST.,MT",LabPLC,ABV
+IL 3B,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Selasa,7,12.30 - 13.15,433-201-504,Elektronika Daya II,"Yusnan Badruzzaman, S.T., M.Eng.",LabPLC,YB
+IL 3B,Selasa,8,13.15 - 14.00,433-201-504,Elektronika Daya II,"Yusnan Badruzzaman, S.T., M.Eng.",LabPLC,YB
+IL 3B,Selasa,9,14.00 - 14.45,433-201-504,Elektronika Daya II,"Yusnan Badruzzaman, S.T., M.Eng.",LabPLC,YB
+IL 3B,Selasa,10,14.45 - 15.30,433-201-504,Elektronika Daya II,"Yusnan Badruzzaman, S.T., M.Eng.",LabPLC,YB
+IL 3B,Rabu,3,08.30 - 09.15,433-201-506,Managemen Industri dan Projek,"Ir. Setyoko, M.M.",MulMed,SE
+IL 3B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Rabu,4,09.35 - 10.20,433-201-506,Managemen Industri dan Projek,"Ir. Setyoko, M.M.",MulMed,SE
+IL 3B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Rabu,7,12.30 - 13.15,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3B,Rabu,8,13.15 - 14.00,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3B,Rabu,9,14.00 - 14.45,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3B,Rabu,10,14.45 - 15.30,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3B,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Rabu,11,16.00 - 16.45,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3B,Rabu,12,16.45 - 17.30,433-201-511,Praktikum Kendali Mikro II,"Aggie Brenda Vernandes,ST.,MT",LabMikro,ABV
+IL 3B,Kamis,3,08.30 - 09.15,433-201-502,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",GKT.710,"DA, DAV"
+IL 3B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Kamis,4,09.35 - 10.20,433-201-502,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",GKT.710,"DA, DAV"
+IL 3B,Kamis,5,10.20 - 11.05,433-201-501,Analisis Sistem Tenaga,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+IL 3B,Kamis,6,11.05 - 11.50,433-201-501,Analisis Sistem Tenaga,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+IL 3B,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Kamis,7,12.30 - 13.15,433-201-501,Analisis Sistem Tenaga,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+IL 3B,Kamis,8,13.15 - 14.00,433-201-501,Analisis Sistem Tenaga,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+IL 3B,Jumat,1,07.00 - 07.45,433-201-508,Penggunaan Mesin Listrik,"Dr. Dwiana Hendrawati , S.T., M.T./Nur Hidayat Arief S.T., M.T.",GKT.711,"NHA,DWN"
+IL 3B,Jumat,2,07.45 - 08.30,433-201-508,Penggunaan Mesin Listrik,"Dr. Dwiana Hendrawati , S.T., M.T./Nur Hidayat Arief S.T., M.T.",GKT.711,"NHA,DWN"
+IL 3B,Jumat,3,08.30 - 09.15,433-201-508,Penggunaan Mesin Listrik,"Dr. Dwiana Hendrawati , S.T., M.T./Nur Hidayat Arief S.T., M.T.",GKT.711,"NHA,DWN"
+IL 3B,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+IL 3B,Jumat,4,09.35 - 10.20,433-201-508,Penggunaan Mesin Listrik,"Dr. Dwiana Hendrawati , S.T., M.T./Nur Hidayat Arief S.T., M.T.",GKT.711,"NHA,DWN"
+LT 2D,Senin,1,07.00 - 07.45,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",SBI/09,SE
+LT 2D,Senin,2,07.45 - 08.30,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",SBI/09,SE
+LT 2D,Senin,3,08.30 - 09.15,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",SBI/09,SE
+LT 2D,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2D,Senin,4,09.35 - 10.20,331-211-310,Sistem Kendali,"Ir. Setyoko, M.M.",SBI/09,SE
+LT 2D,Senin,5,10.20 - 11.05,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",SBI/09,BB
+LT 2D,Senin,6,11.05 - 11.50,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",SBI/09,BB
+LT 2D,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2D,Senin,7,12.30 - 13.15,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",SBI/09,BB
+LT 2D,Senin,8,13.15 - 14.00,331-211-304,Elektronika Daya,"Byan Bagas Pradana S.T., M.T.",SBI/09,BB
+LT 2D,Selasa,5,10.20 - 11.05,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/09,HS
+LT 2D,Selasa,6,11.05 - 11.50,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/09,HS
+LT 2D,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2D,Selasa,7,12.30 - 13.15,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/09,HS
+LT 2D,Selasa,8,13.15 - 14.00,331-211-306,Mesin Listrik AC,"Haris Santosa, S.T., M. Kom.",SBI/09,HS
+LT 2D,Selasa,9,14.00 - 14.45,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",SBI/06,P
+LT 2D,Selasa,10,14.45 - 15.30,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",SBI/06,P
+LT 2D,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2D,Selasa,11,16.00 - 16.45,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",SBI/06,P
+LT 2D,Selasa,12,16.45 - 17.30,331-211-305,Instalasi Cahaya,"Pangestuningtyas Diah Larasati, S.T., M.T.",SBI/06,P
+LT 2D,Rabu,9,14.00 - 14.45,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/09,AA
+LT 2D,Rabu,10,14.45 - 15.30,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/09,AA
+LT 2D,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2D,Rabu,11,16.00 - 16.45,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/09,AA
+LT 2D,Rabu,12,16.45 - 17.30,331-211-303,Distribusi Tenaga Listrik,"Drs. Agus Adiwismono, M.Eng.",SBI/09,AA
+LT 2D,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2D,Kamis,7,12.30 - 13.15,331-211-302,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",GKT.710,"DA, DAV"
+LT 2D,Kamis,8,13.15 - 14.00,331-211-302,Bahasa Inggris Teknik II,"Dewi Anggraeni, S.Pd., M.Pd./Danu Angga Vebriyanto",GKT.710,"DA, DAV"
+LT 2D,Kamis,9,14.00 - 14.45,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2D,Kamis,10,14.45 - 15.30,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2D,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2D,Kamis,11,16.00 - 16.45,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2D,Kamis,12,16.45 - 17.30,331-211-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
+LT 2D,Jumat,1,07.00 - 07.45,331-211-309,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+LT 2D,Jumat,2,07.45 - 08.30,331-211-309,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+LT 2D,Jumat,3,08.30 - 09.15,331-211-309,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+LT 2D,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2D,Jumat,4,09.35 - 10.20,331-211-309,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+LT 2D,Jumat,5,10.20 - 11.05,331-211-309,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+LT 2D,Jumat,6,11.05 - 11.50,331-211-309,Rancangan Listrik Kendali Industri,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabBar,AR
+LT 2D,Jumat,8,13.15 - 14.00,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2D,Jumat,9,14.00 - 14.45,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2D,Jumat,10,14.45 - 15.30,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2D,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 2D,Jumat,11,16.00 - 16.45,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2D,Jumat,12,16.45 - 17.30,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 2D,Jumat,13,17.30 - 18.15,331-211-308,Praktikum Elektronika,"Adi Wasono, B.Eng., M.Eng.",LabTim,AW
+LT 1A,Senin,2,07.45 - 08.30,331-241-103,Dasar Instalasi Listrik,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 1A,Senin,3,08.30 - 09.15,331-241-103,Dasar Instalasi Listrik,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.711,P
+LT 1A,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1A,Senin,4,09.35 - 10.20,331-241-102,Bahasa Indonesia,"Rio Devilito S.Pd., M.Pd.",GKT.711,RD
+LT 1A,Senin,5,10.20 - 11.05,331-241-102,Bahasa Indonesia,"Rio Devilito S.Pd., M.Pd.",GKT.711,RD
+LT 1A,Senin,6,11.05 - 11.50,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",GKT.710,FA
+LT 1A,Senin,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1A,Senin,7,12.30 - 13.15,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",GKT.710,FA
+LT 1A,Senin,8,13.15 - 14.00,331-241-105,Fisika Listrik,"Friska Ayu Fitriani Sugiono, S.Si., M.T",GKT.710,FA
+LT 1A,Selasa,1,07.00 - 07.45,331-241-110,Rangkaian Listrik DC,"Nur Hidayat Arief S.T., M.T.",SBI/06,NHA
+LT 1A,Selasa,2,07.45 - 08.30,331-241-110,Rangkaian Listrik DC,"Nur Hidayat Arief S.T., M.T.",SBI/06,NHA
+LT 1A,Selasa,3,08.30 - 09.15,331-241-110,Rangkaian Listrik DC,"Nur Hidayat Arief S.T., M.T.",SBI/06,NHA
+LT 1A,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1A,Selasa,4,09.35 - 10.20,331-241-110,Rangkaian Listrik DC,"Nur Hidayat Arief S.T., M.T.",SBI/06,NHA
+LT 1A,Selasa,5,10.20 - 11.05,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/06,ET
+LT 1A,Selasa,6,11.05 - 11.50,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/06,ET
+LT 1A,Selasa,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1A,Selasa,7,12.30 - 13.15,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/06,ET
+LT 1A,Selasa,8,13.15 - 14.00,331-241-107,Kalkulus,"Dra. Endang Triyani, M.Pd.",SBI/06,ET
+LT 1A,Rabu,3,08.30 - 09.15,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1A,Rabu,4,09.35 - 10.20,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1A,Rabu,5,10.20 - 11.05,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1A,Rabu,6,11.05 - 11.50,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1A,Rabu,7,12.30 - 13.15,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1A,Rabu,8,13.15 - 14.00,331-241-108,Praktek Dasar Mekanik,"Aji Hari Riyadi, S.T., M.T.",WST,AHR
+LT 1A,Rabu,9,14.00 - 14.45,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+LT 1A,Rabu,10,14.45 - 15.30,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+LT 1A,Rabu,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1A,Rabu,11,16.00 - 16.45,331-241-104,Elektronika Analog,"Lilik Eko Nuryanto, B.Eng., M.Kom.",SBI/06,LE
+LT 1A,Kamis,1,07.00 - 07.45,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1A,Kamis,2,07.45 - 08.30,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1A,Kamis,3,08.30 - 09.15,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1A,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1A,Kamis,4,09.35 - 10.20,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1A,Kamis,5,10.20 - 11.05,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1A,Kamis,6,11.05 - 11.50,331-241-109,Rancangan Instalasi Listrik,"Drs. Amir Subagyo, M.M.",LabBar,AS
+LT 1A,Kamis,10,14.45 - 15.30,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",SBI/06,AH
+LT 1A,Kamis,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+LT 1A,Kamis,11,16.00 - 16.45,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",SBI/06,AH
+LT 1A,Kamis,12,16.45 - 17.30,331-241-101,Alat Ukur & Pengukuran Listrik,"Achmad Hardito, B.Tech., M.Kom.",SBI/06,AH
+LT 1A,Jumat,8,13.15 - 14.00,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1A,Jumat,9,14.00 - 14.45,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1A,Jumat,10,14.45 - 15.30,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
+LT 1A,Jumat,ISTIRAHAT,ISTIRAHAT,-,-,-,-,-
+TK 2A,Senin,9,14.00 - 14.45,MK Telkom,Instalasi Listrik,"Triyono S.T., M.Eng.",Workshop Timur,TR
+TK 2A,Senin,10,14.45 - 15.30,MK Telkom,Instalasi Listrik,"Triyono S.T., M.Eng.",Workshop Timur,TR
+TK 2A,Senin,11,16.00 - 16.45,MK Telkom,Instalasi Listrik,"Triyono S.T., M.Eng.",Workshop Timur,TR
+TK 2A,Senin,12,16.45 - 17.30,MK Telkom,Instalasi Listrik,"Triyono S.T., M.Eng.",Workshop Timur,TR
+TK 2B,Selasa,9,14.00 - 14.45,MK Telkom,Instalasi Listrik,"Triyono S.T., M.Eng.",Workshop Timur,TR
+TK 2B,Selasa,10,14.45 - 15.30,MK Telkom,Instalasi Listrik,"Triyono S.T., M.Eng.",Workshop Timur,TR
+TK 2B,Selasa,11,16.00 - 16.45,MK Telkom,Instalasi Listrik,"Triyono S.T., M.Eng.",Workshop Timur,TR
+TK 2B,Selasa,12,16.45 - 17.30,MK Telkom,Instalasi Listrik,"Triyono S.T., M.Eng.",Workshop Timur,
+TK 2C,Rabu,9,14.00 - 14.45,MK Telkom,Instalasi Listrik,"Eko Widiarto S.T., M.Eng.",Workshop Timur,EW
+TK 2C,Rabu,10,14.45 - 15.30,MK Telkom,Instalasi Listrik,"Eko Widiarto S.T., M.Eng.",Workshop Timur,EW
+TK 2C,Rabu,11,16.00 - 16.45,MK Telkom,Instalasi Listrik,"Eko Widiarto S.T., M.Eng.",Workshop Timur,EW
+TK 2C,Rabu,12,16.45 - 17.30,MK Telkom,Instalasi Listrik,"Eko Widiarto S.T., M.Eng.",Workshop Timur,EW
+TK 2D,Kamis,9,14.00 - 14.45,MK Telkom,Instalasi Listrik,"Eko Widiarto S.T., M.Eng.",Workshop Timur,EW
+TK 2D,Kamis,10,14.45 - 15.30,MK Telkom,Instalasi Listrik,"Eko Widiarto S.T., M.Eng.",Workshop Timur,EW
+TK 2D,Kamis,11,16.00 - 16.45,MK Telkom,Instalasi Listrik,"Eko Widiarto S.T., M.Eng.",Workshop Timur,EW
+TK 2D,Kamis,12,16.45 - 17.30,MK Telkom,Instalasi Listrik,"Eko Widiarto S.T., M.Eng.",Workshop Timur,EW
+LT 1A,Jumat,11,16.00 - 16.45,331-241-106,Gambar Teknik,"Akhmad Jamaah, S.T., M.Eng.",labGbr,AJ
