@@ -1,250 +1,222 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Jadwal Kuliah Dinamis</title>
-
-  <!-- DataTables CSS -->
-  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css" />
-  <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
-
-  <!-- jQuery -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <!-- DataTables JS -->
-  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-  <!-- PapaParse -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
-  <!-- Bootstrap Bundle JS -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f8f9fa;
-      padding: 20px;
-    }
-
-    .table-container {
-      background-color: #e3f2fd;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    }
-
-    .filter-group {
-      display: flex;
-      justify-content: space-around;
-      flex-wrap: wrap;
-      margin-bottom: 20px;
-    }
-
-    .filter-group .filter {
-      margin-bottom: 15px;
-    }
-
-    .filter-group label {
-      margin-bottom: 5px;
-      font-weight: 500;
-    }
-
-    .filter-group select {
-      background-color: #bbdefb;
-      border: 1px solid #64b5f6;
-    }
-
-    table {
-      border-collapse: collapse;
-      background-color: #bbdefb;
-    }
-
-    /* Teks lebih kecil & baris menyesuaikan isi */
-    table#jadwalTable,
-    table#jadwalTable th,
-    table#jadwalTable td {
-      font-size: 0.75rem;
-      padding: 4px 6px;
-      line-height: 1.2;
-      white-space: normal;
-      vertical-align: middle;
-    }
-
-    th {
-      background-color: #64b5f6;
-      color: white;
-    }
-
-    .dataTables_wrapper .dataTables_paginate .paginate_button {
-      padding: 0.5em 1em;
-      margin-left: 0px;
-      background-color: #64b5f6;
-      color: white !important;
-      border: none;
-      border-radius: 4px;
-    }
-
-    #printButton {
-      margin-top: 20px;
-      width: 100%;
-      background-color: #64b5f6;
-      color: white;
-      border: none;
-      padding: 10px;
-      border-radius: 4px;
-    }
-
-    @media print {
-      #printButton {
-        display: none;
-      }
-    }
-
-    @media (max-width: 768px) {
-      .filter-group {
-        flex-direction: column;
-        align-items: stretch;
-      }
-      .filter-group .filter {
-        width: 100%;
-      }
-    }
-
-    .table-responsive {
-      overflow-x: auto;
-    }
-
-    .logo {
-      max-width: 150px;
-      margin: 0 auto 10px auto;
-      display: block;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jadwal Kuliah Teknik Listrik</title>
+    <!-- Include DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+    <!-- Include Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Include jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Include DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <!-- Include PapaParse -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <!-- Include Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            padding: 20px;
+        }
+        .table-container {
+            width: 100%;
+            margin: 0 auto;
+            background-color: #e3f2fd;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .filter-group {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+        .filter-group .filter {
+            margin-bottom: 10px;
+        }
+        .filter-group label {
+            margin-right: 10px;
+        }
+        .filter-group select {
+            width: 200px;
+            padding: 5px;
+            background-color: #bbdefb;
+            border: 1px solid #64b5f6;
+            border-radius: 4px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #bbdefb;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border: 1px solid #64b5f6;
+        }
+        th {
+            background-color: #64b5f6;
+            color: white;
+        }
+        .dataTables_wrapper .dataTables_paginate .paginate_button {
+            padding: 0.5em 1em;
+            margin-left: 0px;
+            background-color: #64b5f6;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+        #printButton {
+            margin-top: 20px;
+            display: block;
+            width: 100%;
+            background-color: #64b5f6;
+            color: white;
+            border: none;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        /* Hide print button in print view */
+        @media print {
+            #printButton {
+                display: none;
+            }
+        }
+    </style>
 </head>
 <body>
-  <div class="container-fluid table-container">
-    <!-- Logo -->
-    <img src="http://103.214.229.197/assets/images/logo-dark.png" alt="Logo Polines" class="logo" />
+    <div class="table-container">
+        <h1 class="text-center mb-4">Jadwal Kuliah Teknik Listrik Polines Gasal 2025/2026</h1>
+        
+        <!-- Custom filters -->
+        <div class="filter-group">
+            <div class="filter">
+                <label for="kelasFilter">Filter Kelas:</label>
+                <select id="kelasFilter" class="form-select">
+                    <option value="">Semua Kelas</option>
+                </select>
+            </div>
+            <div class="filter">
+                <label for="pengampuFilter">Filter Pengampu:</label>
+                <select id="pengampuFilter" class="form-select">
+                    <option value="">Semua Pengampu</option>
+                </select>
+            </div>
+            <div class="filter">
+                <label for="ruangFilter">Filter Ruang:</label>
+                <select id="ruangFilter" class="form-select">
+                    <option value="">Semua Ruang</option>
+                </select>
+            </div>
+        </div>
 
-    <!-- Title -->
-    <h1 class="text-center mb-4">Jadwal Kuliah Teknik Listrik Polines 2024/2025</h1>
+        <table id="jadwalTable" class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Kelas</th>
+                    <th>Hari</th>
+                    <th>Jam Kuliah</th>
+                    <th>Waktu</th>
+                    <th>Kode MK</th>
+                    <th>Mata Kuliah</th>
+                    <th>Pengampu</th>
+                    <th>Ruang</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data akan dimuat di sini -->
+            </tbody>
+        </table>
 
-    <!-- Filter Form -->
-    <div class="row filter-group">
-      <div class="col-md-4 filter">
-        <label for="kelasFilter">Filter Kelas:</label>
-        <select id="kelasFilter" class="form-select">
-          <option value="">Semua Kelas</option>
-        </select>
-      </div>
-      <div class="col-md-4 filter">
-        <label for="pengampuFilter">Filter Pengampu:</label>
-        <select id="pengampuFilter" class="form-select">
-          <option value="">Semua Pengampu</option>
-        </select>
-      </div>
-      <div class="col-md-4 filter">
-        <label for="ruangFilter">Filter Ruang:</label>
-        <select id="ruangFilter" class="form-select">
-          <option value="">Semua Ruang</option>
-        </select>
-      </div>
+        <!-- Print button -->
+        <button id="printButton" class="btn btn-primary">Print</button>
     </div>
 
-    <!-- Table -->
-    <div class="table-responsive">
-      <table id="jadwalTable" class="table table-striped">
-        <thead>
-          <tr>
-            <th>Kelas</th>
-            <th>Hari</th>
-            <th>Jam Kuliah</th>
-            <th>Waktu</th>
-            <th>Kode MK</th>
-            <th>Mata Kuliah</th>
-            <th>Pengampu</th>
-            <th>Ruang</th>
-          </tr>
-        </thead>
-        <tbody>
-          <!-- Data akan dimuat di sini -->
-        </tbody>
-      </table>
-    </div>
+    <script>
+        $(document).ready(function() {
+            // Define custom sort order for "Hari"
+            var dayOrder = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat"];
 
-    <!-- Print Button -->
-    <button id="printButton" class="btn btn-primary">Print</button>
-  </div>
+            // Custom sorting function for "Hari"
+            $.fn.dataTable.ext.order['day-order'] = function (settings, data, dataIndex) {
+                return dayOrder.indexOf(data[dataIndex]);
+            };
 
-  <script>
-    $(document).ready(function () {
-      var dayOrder = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat"];
+            var table = $('#jadwalTable').DataTable({
+                columns: [
+                    { title: "Kelas", data: "Kelas" },
+                    { title: "Hari", data: "Hari", orderDataType: 'day-order' },
+                    { title: "Jam Kuliah", data: "Jam Kuliah" },
+                    { title: "Waktu", data: "Waktu" },
+                    { title: "Kode MK", data: "Kode MK" },
+                    { title: "Mata Kuliah", data: "Mata Kuliah" },
+                    { title: "Pengampu", data: "Pengampu" },
+                    { title: "Ruang", data: "Ruang" }
+                ],
+                ordering: false, // Disable sorting on column headers
+                pageLength: 100, // Display up to 100 rows per page
+                dom: 'Bfrtip',
+                buttons: [
+                    'csv', 'excel', 'pdf'
+                ]
+            });
 
-      $.fn.dataTable.ext.order['day-order'] = function (settings, data, dataIndex) {
-        return dayOrder.indexOf(data[dataIndex]);
-      };
+            Papa.parse("jadwal.csv", {
+                download: true,
+                header: true,
+                complete: function(results) {
+                    // Custom sorting for the day column
+                    results.data.sort(function(a, b) {
+                        return dayOrder.indexOf(a["Hari"]) - dayOrder.indexOf(b["Hari"]);
+                    });
 
-      var table = $('#jadwalTable').DataTable({
-        columns: [
-          { title: "Kelas", data: "Kelas" },
-          { title: "Hari", data: "Hari", orderDataType: 'day-order' },
-          { title: "Jam Kuliah", data: "Jam Kuliah" },
-          { title: "Waktu", data: "Waktu" },
-          { title: "Kode MK", data: "Kode MK" },
-          { title: "Mata Kuliah", data: "Mata Kuliah" },
-          { title: "Pengampu", data: "Pengampu" },
-          { title: "Ruang", data: "Ruang" }
-        ],
-        ordering: false,
-        pageLength: 100
-      });
+                    // Populate filters with unique values
+                    populateFilter('#kelasFilter', results.data, 'Kelas');
+                    populateFilter('#pengampuFilter', results.data, 'Pengampu');
+                    populateFilter('#ruangFilter', results.data, 'Ruang');
 
-      Papa.parse("jadwal.csv", {
-        download: true,
-        header: true,
-        complete: function (results) {
-          results.data.sort(function (a, b) {
-            return dayOrder.indexOf(a["Hari"]) - dayOrder.indexOf(b["Hari"]);
-          });
+                    // Add data to the table
+                    table.clear().rows.add(results.data).draw();
+                }
+            });
 
-          populateFilter('#kelasFilter', results.data, 'Kelas');
-          populateFilter('#pengampuFilter', results.data, 'Pengampu');
-          populateFilter('#ruangFilter', results.data, 'Ruang');
+            function populateFilter(selector, data, column) {
+                var uniqueValues = [];
+                $.each(data, function(index, row) {
+                    if ($.inArray(row[column], uniqueValues) === -1) {
+                        uniqueValues.push(row[column]);
+                    }
+                });
+                uniqueValues.sort(); // Sort values alphabetically
+                $.each(uniqueValues, function(index, value) {
+                    $(selector).append($('<option>', {
+                        value: value,
+                        text: value
+                    }));
+                });
+            }
 
-          table.clear().rows.add(results.data).draw();
-        }
-      });
+            // Filter events
+            $('#kelasFilter').on('change', function() {
+                table.column(0).search(this.value).draw();
+            });
+            $('#pengampuFilter').on('change', function() {
+                table.column(6).search(this.value).draw();
+            });
+            $('#ruangFilter').on('change', function() {
+                table.column(7).search(this.value).draw();
+            });
 
-      function populateFilter(selector, data, column) {
-        var uniqueValues = [];
-        $.each(data, function (index, row) {
-          if ($.inArray(row[column], uniqueValues) === -1) {
-            uniqueValues.push(row[column]);
-          }
+            // Print button functionality
+            $('#printButton').on('click', function() {
+                window.print();
+            });
         });
-        uniqueValues.sort();
-        $.each(uniqueValues, function (index, value) {
-          $(selector).append($('<option>', {
-            value: value,
-            text: value
-          }));
-        });
-      }
-
-      $('#kelasFilter').on('change', function () {
-        table.column(0).search(this.value).draw();
-      });
-      $('#pengampuFilter').on('change', function () {
-        table.column(6).search(this.value).draw();
-      });
-      $('#ruangFilter').on('change', function () {
-        table.column(7).search(this.value).draw();
-      });
-
-      $('#printButton').on('click', function () {
-        window.print();
-      });
-    });
-  </script>
+    </script>
 </body>
 </html>
