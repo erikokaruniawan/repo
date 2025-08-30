@@ -203,9 +203,9 @@ IL 1A,Selasa,5,10.20 - 11.05,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardi
 IL 1A,Selasa,6,11.05 - 11.50,433-241-106,Instrumentasi & Alat Ukur,"Achmad Hardito,B.Tech , M.Kom",SBI/09,AH
 IL 1A,Rabu,1,07.00 - 07.45,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.8/11,KM
 IL 1A,Rabu,2,07.45 - 08.30,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.8/11,KM
-IL 1A,Rabu,3,08.30 - 09.15,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",GKT.7/11,"DAV, ASW"
+IL 1A,Rabu,3,08.30 - 09.15,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd.",GKT.7/11,"DAV"
 IL 1A,Rabu,ISTIRAHAT,ISTIRAHAT,,#N/A,"#N/A",,
-IL 1A,Rabu,4,09.35 - 10.20,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",GKT.7/11,"DAV, ASW"
+IL 1A,Rabu,4,09.35 - 10.20,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd.",GKT.7/11,"DAV"
 IL 1A,Rabu,9,14.00 - 14.45,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabMikro,AR
 IL 1A,Rabu,10,14.45 - 15.30,433-241-103,Fisika Listrik,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabMikro,AR
 IL 1A,Rabu,ISTIRAHAT,ISTIRAHAT,,#N/A,"#N/A",,
@@ -250,8 +250,8 @@ IL 1B,Selasa,12,16.45 - 17.30,433-241-104,Gambar Teknik,"Akhmad Jamaah, S.T., M.
 IL 1B,Rabu,3,08.30 - 09.15,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.8/11,KM
 IL 1B,Rabu,ISTIRAHAT,ISTIRAHAT,,#N/A,"#N/A",,
 IL 1B,Rabu,4,09.35 - 10.20,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.8/11,"KM"
-IL 1B,Rabu,5,10.20 - 11.05,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",GKT.7/11,"DAV, ASW"
-IL 1B,Rabu,6,11.05 - 11.50,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",GKT.7/11,"DAV, ASW"
+IL 1B,Rabu,5,10.20 - 11.05,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd.",GKT.7/11,"DAV"
+IL 1B,Rabu,6,11.05 - 11.50,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd.",GKT.7/11,"DAV"
 IL 1B,Kamis,1,07.00 - 07.45,433-241-105,Instalasi Listrik,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.7/11,PT
 IL 1B,Kamis,2,07.45 - 08.30,433-241-105,Instalasi Listrik,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.7/11,PT
 IL 1B,Kamis,3,08.30 - 09.15,433-241-105,Instalasi Listrik,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.7/11,PT
@@ -297,8 +297,8 @@ IL 1C,Rabu,4,09.35 - 10.20,433-241-107,Matematika Dasar,"Dra. Endang Triyani, M.
 IL 1C,Rabu,5,10.20 - 11.05,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.8/11,KM
 IL 1C,Rabu,6,11.05 - 11.50,433-241-108,Pendidikan Agama,"Khamami, S.Ag., MM",GKT.8/11,KM
 IL 1C,Rabu,ISTIRAHAT,ISTIRAHAT,,#N/A,"#N/A",,
-IL 1C,Rabu,7,12.30 - 13.15,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",GKT.7/11,"DAV, ASW"
-IL 1C,Rabu,8,13.15 - 14.00,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",GKT.7/11,"DAV, ASW"
+IL 1C,Rabu,7,12.30 - 13.15,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd.",GKT.7/11,"DAV"
+IL 1C,Rabu,8,13.15 - 14.00,433-241-101,Bahasa Inggris,"Danu Angga Vebriyanto, M.Pd.",GKT.7/11,"DAV"
 IL 1C,Kamis,1,07.00 - 07.45,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabBar,YB
 IL 1C,Kamis,2,07.45 - 08.30,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabBar,YB
 IL 1C,Kamis,3,08.30 - 09.15,433-241-109,Prak Rancangan Listrik I,"Yusnan Badruzzaman, S.T., M.Eng.",LabBar,YB
@@ -511,8 +511,8 @@ IL 2A,Selasa,3,08.30 - 09.15,433-241-301,Algoritma dan Pemrograman,"Dr. Mohammad
 IL 2A,Selasa,ISTIRAHAT,ISTIRAHAT,,#N/A,"#N/A",,
 IL 2A,Selasa,4,09.35 - 10.20,433-241-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
 IL 2A,Selasa,ISTIRAHAT,ISTIRAHAT,,#N/A,"#N/A",,
-IL 2A,Selasa,7,12.30 - 13.15,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",UPA-BHS,"DAV, ASW"
-IL 2A,Selasa,8,13.15 - 14.00,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",UPA-BHS,"DAV, ASW"
+IL 2A,Selasa,7,12.30 - 13.15,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd.",UPA-BHS,"DAV"
+IL 2A,Selasa,8,13.15 - 14.00,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd.",UPA-BHS,"DAV"
 IL 2A,Rabu,1,07.00 - 07.45,433-241-303,Dasar Sistem Kendali,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabMeka,"AR"
 IL 2A,Rabu,2,07.45 - 08.30,433-241-303,Dasar Sistem Kendali,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabMeka,"AR"
 IL 2A,Rabu,3,08.30 - 09.15,433-241-303,Dasar Sistem Kendali,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabMeka,AR
@@ -571,8 +571,8 @@ IL 2B,Rabu,8,13.15 - 14.00,433-241-304,Elektronika Daya I,"Yusnan Badruzzaman, S
 IL 2B,Rabu,9,14.00 - 14.45,433-241-304,Elektronika Daya I,"Yusnan Badruzzaman, S.T., M.Eng.",MulMed,YB
 IL 2B,Rabu,10,14.45 - 15.30,433-241-304,Elektronika Daya I,"Yusnan Badruzzaman, S.T., M.Eng.",MulMed,YB
 IL 2B,Kamis,ISTIRAHAT,ISTIRAHAT,,#N/A,"#N/A",,
-IL 2B,Kamis,4,09.35 - 10.20,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",GKT.7/11,"DAV, ASW"
-IL 2B,Kamis,5,10.20 - 11.05,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",GKT.7/11,"DAV, ASW"
+IL 2B,Kamis,4,09.35 - 10.20,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd.",GKT.7/11,"DAV"
+IL 2B,Kamis,5,10.20 - 11.05,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd.",GKT.7/11,"DAV"
 IL 2B,Kamis,8,13.15 - 14.00,433-241-310,Statistik dan Stokastik,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.7/11,PT
 IL 2B,Kamis,9,14.00 - 14.45,433-241-310,Statistik dan Stokastik,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.7/11,PT
 IL 2B,Kamis,10,14.45 - 15.30,433-241-310,Statistik dan Stokastik,"Pangestuningtyas Diah Larasati, S.T., M.T.",GKT.7/11,PT
@@ -613,9 +613,9 @@ IL 2C,Rabu,6,11.05 - 11.50,433-241-303,Dasar Sistem Kendali,"Adeguna Ridlo Pramu
 IL 2C,Rabu,ISTIRAHAT,ISTIRAHAT,,#N/A,"#N/A",,
 IL 2C,Rabu,7,12.30 - 13.15,433-241-303,Dasar Sistem Kendali,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabMikro,AR
 IL 2C,Rabu,8,13.15 - 14.00,433-241-303,Dasar Sistem Kendali,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",LabMikro,"AR"
-IL 2C,Kamis,6,11.05 - 11.50,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",GKT.7/11,"DAV, ASW"
+IL 2C,Kamis,6,11.05 - 11.50,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd.",GKT.7/11,"DAV"
 IL 2C,Kamis,ISTIRAHAT,ISTIRAHAT,,#N/A,"#N/A",,
-IL 2C,Kamis,7,12.30 - 13.15,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd. / Astri Wulandari, M.Pd.",GKT.7/11,"DAV, ASW"
+IL 2C,Kamis,7,12.30 - 13.15,433-241-302,Bahasa Inggris Teknik II,"Danu Angga Vebriyanto, M.Pd.",GKT.7/11,"DAV"
 IL 2C,Kamis,9,14.00 - 14.45,433-241-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
 IL 2C,Kamis,10,14.45 - 15.30,433-241-301,Algoritma dan Pemrograman,"Dr. Mohammad Khambali, B.Eng., M.Kom.",LabKom,MK
 IL 2C,Kamis,ISTIRAHAT,ISTIRAHAT,,#N/A,"#N/A",,
@@ -813,4 +813,5 @@ IL 4C(RPL),Jumat,13,17.30 - 18.15,433-248-701,Praktikum Elektronika Daya,"Adegun
 IL 4C(RPL),Jumat,ISTIRAHAT,ISTIRAHAT,,#N/A,#N/A,,
 IL 4C(RPL),Jumat,14,18.45 - 19.30,433-248-701,Praktikum Elektronika Daya,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",RPL(online),AR
 IL 4C(RPL),Jumat,15,19.30 - 20.15,433-248-701,Praktikum Elektronika Daya,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",RPL(online),AR
+
 IL 4C(RPL),Jumat,16,20.15 - 21.00,433-248-701,Praktikum Elektronika Daya,"Adeguna Ridlo Pramurti, S.Pd., M.Eng.",RPL(online),AR
